@@ -1,2 +1,2 @@
-# Helloworld
-just like another hello world
+# weekly
+ TEST weekly time table
